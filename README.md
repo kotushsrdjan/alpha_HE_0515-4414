@@ -1,11 +1,11 @@
 # alpha_HE 0515-4414
-# DOI
+<a href="https://zenodo.org/badge/latestdoi/22161/kotushsrdjan/alpha_HE_0515-4414"><img src="https://zenodo.org/badge/22161/kotushsrdjan/alpha_HE_0515-4414.svg" alt="10.5281/zenodo.51715"></a>
 
 Quasar spectra and absorption profile fits associated with Kotuš, Murphy &amp; Carswell (2016, submitted to MNRAS).
 
 Read this README, and view/download/use the files within this repository, in conjunction with a careful read of the paper itself (Kotuš, Murphy &amp; Carswell, 2016, as above).
 
-If you use any of the materials in this repository, please cite the paper. If you want to cite only the data and/or fits (for some reason), please use the DOI: ## DOI ##
+If you use any of the materials in this repository, please cite the paper. If you want to cite only the data and/or fits (for some reason), please use the DOI: <a href="https://zenodo.org/badge/latestdoi/22161/kotushsrdjan/alpha_HE_0515-4414"><img src="https://zenodo.org/badge/22161/kotushsrdjan/alpha_HE_0515-4414.svg" alt="10.5281/zenodo.51715"></a>
 
 The paper is available at the following websites, in published or pre-print form:
 
